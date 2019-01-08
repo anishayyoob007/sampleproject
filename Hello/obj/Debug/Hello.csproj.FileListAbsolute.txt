@@ -1,0 +1,14 @@
+D:\work\C#\Hello\Hello\bin\Debug\Hello.exe.config
+D:\work\C#\Hello\Hello\bin\Debug\Hello.exe
+D:\work\C#\Hello\Hello\bin\Debug\Hello.pdb
+D:\work\C#\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+D:\work\C#\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\work\C#\Hello\Hello\obj\Debug\Hello.exe
+D:\work\C#\Hello\Hello\obj\Debug\Hello.pdb
+D:\work\GIT\SampleProject\Hello\bin\Debug\Hello.exe.config
+D:\work\GIT\SampleProject\Hello\bin\Debug\Hello.exe
+D:\work\GIT\SampleProject\Hello\bin\Debug\Hello.pdb
+D:\work\GIT\SampleProject\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+D:\work\GIT\SampleProject\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\work\GIT\SampleProject\Hello\obj\Debug\Hello.exe
+D:\work\GIT\SampleProject\Hello\obj\Debug\Hello.pdb
